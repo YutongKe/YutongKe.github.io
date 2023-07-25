@@ -290,6 +290,5 @@ defaults:
       comments: # true
       share: true
       related: true
-
-  navigation:
-    - {file: "README.md", title: Info}
+navigation:
+  - {file: "README.md", title: "Info"}
